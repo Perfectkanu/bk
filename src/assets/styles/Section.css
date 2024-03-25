@@ -1,0 +1,22 @@
+.sections-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+  }
+  
+  .services-section,
+  .about-section {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .section-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .section-text {
+    font-size: 16px;
+    color: #666;
+  }
+  
